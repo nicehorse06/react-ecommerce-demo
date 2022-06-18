@@ -1,6 +1,6 @@
-import BannerZero from "./banner-0.jpg";
-import BannerOne from "./banner-1.jpg";
-import BannerTwo from "./banner-2.jpg";
+import BannerZero from "./together.jpeg";
+import BannerOne from "./ONE_PIECE_Logo.svg.png";
+import BannerTwo from "./toy.jpg";
 
 function BannerIncidator(props) {
   return (
@@ -30,10 +30,10 @@ function BannerImage(props) {
           src={props.image}
         />
       </div>
-      <div className="carousel-caption d-none d-lg-block">
-        <h5>Banner Header</h5>
-        <p>Some representative placeholder content for the banner.</p>
-      </div>
+      {/* <div className="carousel-caption d-none d-lg-block">
+        <h5>E 番賞</h5>
+        <p>一抽入魂</p>
+      </div> */}
     </div>
   );
 }

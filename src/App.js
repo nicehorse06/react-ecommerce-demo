@@ -3,6 +3,7 @@ import ProductDetail from "./products/detail/ProductDetail";
 import { Switch, Route } from "react-router-dom";
 import Landing from "./landing/Landing";
 import ProductList from "./products/ProductList";
+import Draw from "./products/Draw";
 
 function App() {
   return (
@@ -10,6 +11,9 @@ function App() {
       <Switch>
         <Route path="/products" exact>
           <ProductList />
+        </Route>
+        <Route path="/products/:slug/draw">
+          <Draw />
         </Route>
         <Route path="/products/:slug">
           <ProductDetail />

@@ -1,4 +1,4 @@
-import Image from "../nillkin-case-1.jpg";
+import Image from "../NARUTO.png";
 import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
@@ -41,7 +41,7 @@ function ProductH(props) {
             <div className="card-body h-100">
               <div className="d-flex flex-column h-100">
                 <h5 className="card-title text-dark text-truncate mb-1">
-                  Nillkin iPhone X cover
+                  一番賞《火影忍者 疾風傳》交織的火之意志
                 </h5>
                 <span className="card-text text-muted mb-2 flex-shrink-0">
                   {offPrice}
