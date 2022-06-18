@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/react-ecommerce-demo/static/css/main.66e04065.chunk.css",
-    "main.js": "/react-ecommerce-demo/static/js/main.eed5df57.chunk.js",
-    "main.js.map": "/react-ecommerce-demo/static/js/main.eed5df57.chunk.js.map",
+    "main.js": "/react-ecommerce-demo/static/js/main.02652791.chunk.js",
+    "main.js.map": "/react-ecommerce-demo/static/js/main.02652791.chunk.js.map",
     "runtime-main.js": "/react-ecommerce-demo/static/js/runtime-main.bed83e02.js",
     "runtime-main.js.map": "/react-ecommerce-demo/static/js/runtime-main.bed83e02.js.map",
-    "static/js/2.8bc52376.chunk.js": "/react-ecommerce-demo/static/js/2.8bc52376.chunk.js",
-    "static/js/2.8bc52376.chunk.js.map": "/react-ecommerce-demo/static/js/2.8bc52376.chunk.js.map",
+    "static/js/2.1d9496b6.chunk.js": "/react-ecommerce-demo/static/js/2.1d9496b6.chunk.js",
+    "static/js/2.1d9496b6.chunk.js.map": "/react-ecommerce-demo/static/js/2.1d9496b6.chunk.js.map",
     "index.html": "/react-ecommerce-demo/index.html",
     "static/css/main.66e04065.chunk.css.map": "/react-ecommerce-demo/static/css/main.66e04065.chunk.css.map",
-    "static/js/2.8bc52376.chunk.js.LICENSE.txt": "/react-ecommerce-demo/static/js/2.8bc52376.chunk.js.LICENSE.txt",
+    "static/js/2.1d9496b6.chunk.js.LICENSE.txt": "/react-ecommerce-demo/static/js/2.1d9496b6.chunk.js.LICENSE.txt",
     "static/media/NARUTO.8e52d48d.png": "/react-ecommerce-demo/static/media/NARUTO.8e52d48d.png",
-    "static/media/banner-0.83a86819.jpg": "/react-ecommerce-demo/static/media/banner-0.83a86819.jpg",
-    "static/media/banner-1.1f5bb6ba.jpg": "/react-ecommerce-demo/static/media/banner-1.1f5bb6ba.jpg",
-    "static/media/banner-2.e792fe61.jpg": "/react-ecommerce-demo/static/media/banner-2.e792fe61.jpg"
+    "static/media/ONE_PIECE_Logo.svg.9505bbb0.png": "/react-ecommerce-demo/static/media/ONE_PIECE_Logo.svg.9505bbb0.png",
+    "static/media/together.e8caeee5.jpeg": "/react-ecommerce-demo/static/media/together.e8caeee5.jpeg",
+    "static/media/toy.47eb49de.jpg": "/react-ecommerce-demo/static/media/toy.47eb49de.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.bed83e02.js",
-    "static/js/2.8bc52376.chunk.js",
+    "static/js/2.1d9496b6.chunk.js",
     "static/css/main.66e04065.chunk.css",
-    "static/js/main.eed5df57.chunk.js"
+    "static/js/main.02652791.chunk.js"
   ]
 }
